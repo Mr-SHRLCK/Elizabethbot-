@@ -2,9 +2,9 @@
 A simple Telegram Group management bot based on Telethon .
 
 <p align="left">
-    <a href="https://github.com/MR-SHRLCK/Elizabeth-2.0/commits/master"><img src="https://img.shields.io/github/last-commit/MR-SHRLCK/Elizabeth-2.0/master?label=Last%20Commit&style=flat-square&logo=github&color=F10070" alt="Commit" /></a>
-    <a href="https://github.com/MR-SHRLCK/Elizabeth-2.0/stargazers"><img src="https://img.shields.io/github/stars/MR-SHRLCK/Elizabeth-2.0?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
-    <a href="https://github.com/MR-SHRLCK/Elizabeth-2.0/network/members"><img src="https://img.shields.io/github/forks/MR-SHRLCK/Elizabeth-2.0?label=Fork&style=flat-square&logo=github&color=F10070" alt="Fork" /></a>
+    <a href="https://github.com/MR-SHRLCK/Elizabeth/commits/master"><img src="https://img.shields.io/github/last-commit/MR-SHRLCK/Elizabeth/master?label=Last%20Commit&style=flat-square&logo=github&color=F10070" alt="Commit" /></a>
+    <a href="https://github.com/MR-SHRLCK/Elizabeth/stargazers"><img src="https://img.shields.io/github/stars/MR-SHRLCK/Elizabeth?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+    <a href="https://github.com/MR-SHRLCK/Elizabeth/network/members"><img src="https://img.shields.io/github/forks/MR-SHRLCK/Elizabeth?label=Fork&style=flat-square&logo=github&color=F10070" alt="Fork" /></a>
 </p>
 
 ![logo](https://telegra.ph/file/0157c7b6cd269654ee987.jpg)
