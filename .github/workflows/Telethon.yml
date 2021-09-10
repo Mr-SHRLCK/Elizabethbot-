@@ -1,4 +1,4 @@
-name: Lets Start neva
+name: Lets Start El
 on: push
 jobs:
   build:
@@ -13,9 +13,9 @@ jobs:
       - name: Pull All Updates
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: 'by @mr_srlock yo yo🥳'
+          commit_message: 'by me'
           commit_options: '--no-verify'
           repository: .
-          commit_user_name: MR-SHRLCK
-          commit_user_email: 72887386+Mr-SHRLCK@users.noreply.github.com
-          commit_author: MR-SHRLCK <72887386+Mr-SHRLCK@users.noreply.github.com>
+          commit_user_name: Oxidisedman
+          commit_user_email: 72887386+Oxidisedman@users.noreply.github.com
+          commit_author: Oxidisedman <72887386+OxidisedmanK@users.noreply.github.com>
